@@ -6,6 +6,9 @@ This project would include a comprehensive study into the high-dimensional singl
 
 # Project Structure
 data/: It stores raw and processed scRNA-seq datasets for analysis.
+
 src/ Pre-trained models and scripts for training Graph Convolutional Networks (GCN) and Graph Attention Networks (GAT).
+
 visualization_data/: Data visualizations, model performance metrics, etc.
+
 README.md: A brief overview of the project, the structure and how to run the analysis.

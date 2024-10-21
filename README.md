@@ -2,4 +2,4 @@
 
 # Project Overview.
 
-This project is a comprehensive exploration of single-cell RNA sequencing (scRNA-seq) data using advanced machine learning techniques. The goal is to analyze and interpret high-dimensional scRNA-seq data to uncover cellular heterogeneity and underlying biological processes. By applying dimensionality reduction techniques and graph-based models, we aim to provide insights into the complex structure of gene expression data at a single-cell level.
+This project would include a comprehensive study into the high-dimensional single-cell RNA sequencing data using advanced machine learning techniques to analyze and interpret the scRNA-seq of cellular diversity and underlying biological mechanisms. The analysis of such data will be done using dimensionality reduction techniques and graph-based models, through which insights may be obtained into the extremely intricate structure that exists in the single-cell level gene expression data.
